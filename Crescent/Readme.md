@@ -3,7 +3,7 @@
 
 # Chain explorer
 https://crescent.explorers.guru/
-# [RESTAKE](https://restake.app/crescent)
+# [RESTAKE](https://restake.app/crescent) - [Stake Here](https://restake.app/crescent)
 
 ### Validator: CrescentNodeMax crevaloper1x77p6m3w6xddqy253jtup32n97fr8mdwrlgzez
 
