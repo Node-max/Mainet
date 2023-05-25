@@ -5,9 +5,9 @@
 https://crescent.explorers.guru/
 
 
-# Validator: CrescentNodeMax crevaloper1x77p6m3w6xddqy253jtup32n97fr8mdwrlgzez
+### Validator: CrescentNodeMax crevaloper1x77p6m3w6xddqy253jtup32n97fr8mdwrlgzez
 
-[Stake Here](https://restake.app/crescent/crevaloper1x77p6m3w6xddqy253jtup32n97fr8mdwrlgzez)
+# [Stake Here](https://restake.app/crescent/crevaloper1x77p6m3w6xddqy253jtup32n97fr8mdwrlgzez)
 
 # Public endpoints
 api: https://api.crescent.max-node.xyz \
