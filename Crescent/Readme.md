@@ -1,4 +1,4 @@
-# Chain ID: constantine-3 | Latest Version Tag:  v0.5.2 
+# Chain ID: crescent-1 | Latest Version Tag:  v4.1.0
 # [Website](https://app.crescent.network/) | [Discord](https://discord.gg/crescentnetwork) | [Twitter](https://twitter.com/CrescentHub)
 
 # Chain explorer
