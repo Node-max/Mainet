@@ -19,5 +19,5 @@ mv $HOME/.crescent/priv_validator_state.json.backup $HOME/.crescent/data/priv_va
 ```
 ## Restart the service and check the log
 ```python
-sudo systemctl start archwayd && sudo journalctl -u archwayd -f --no-hostname -o cat
+sudo systemctl start crescentd && sudo journalctl -u crescentd -f --no-hostname -o cat
 ```
