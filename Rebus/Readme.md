@@ -1,1 +1,39 @@
+# Chain ID: reb_1111-1 | Latest Version Tag:  v4.1.0
+# [Website](https://www.rebuschain.com/) | [Discord](https://discord.gg/rebuschain) | [Twitter](https://twitter.com/RebusChain)
+
+# Chain explorer
+https://rebus.explorers.guru/
+# [RESTAKE]- [Stake Here](https://rebus.tcnetwork.io/validator/rebusvaloper10qqt5qhf447ukj2lve7cfcmxqst04hnqyfn8ug)
+
+### Validator: RebusNodeMax rebusvaloper10qqt5qhf447ukj2lve7cfcmxqst04hnqyfn8ug
+
+# [Stake Here](https://rebus.tcnetwork.io/validator/rebusvaloper10qqt5qhf447ukj2lve7cfcmxqst04hnqyfn8ug)
+
+# Public endpoints
+api: https://api.rebus.max-node.xyz \
+rpc: https://rpc.rebus.max-node.xyz \
+grpc: rpc.rebus.max-node.xyz:9091
+
+# Peering
+### state-sync
+```python
+fa8aaed9eb735e008cb70f10f7d44c82e9412fe2@rpc.rebus.max-node.xyz:26656
+```
+
+### addrbook
+```python
+curl -Ls https://snapshots.max-node.xyz/rebus/addrbook.json > $HOME/.rebusd/config/addrbook.json
+```
+### genesis
+```python
+curl -Ls https://snapshots.max-node.xyz/rebus/genesis.json > $HOME/.rebusd/config/genesis.json
+```
+
+### live-peers
+```python
+peers="69e27ab9b46350654805df3ea8d9ac2f00af4e4c@38.242.244.85:26656,70765a2a1dba92151c22c35f962e0b71c1230b11@54.36.108.222:17656,c124ce0b508e8b9ed1c5b6957f362225659b5343@134.65.192.98:26656,b212d5740b2e11e54f56b072dc13b6134650cfb5@169.155.168.16:26656,7b77a388fba73d4c4f8e4134fbe5f4b1448a6c95@164.152.160.233:26656,a7d96dc929824613315dcc1c90fee119f28cc51f@164.152.160.207:26656,c126eed9cfede7802d78f570fec8175835309a73@141.95.127.146:26656,edd9df79965e71f4179f13977b79bf267c9e0b36@51.159.195.168:26656,cd71aa366822800a2aa7051fae69127f78b3f203@188.165.225.226:26656,3e319c765b7b48d518a2e3218efc317234b81681@142.132.159.188:26656,ff7621be29e39e9fdf07f2501e1a217201ca29ee@213.239.207.175:39656,5905428e1cff0564d386ee86bc62f97831b48132@65.109.69.154:29656,07b84cf4b47a2e5ad251267716fe05bcf30330cd@65.21.170.3:29656,a3d975c913570ad217d9a3de01a8616ad5ce20f8@142.132.128.137:26656,2f6b34ad97c4827dace87436f0299cf89fe0c056@136.243.95.80:46656,87102b5dd22c1d17f97197c078f23726ae3c6214@91.157.60.253:26656,d28516746773bfaeca4efa5537c0bf5990b8828e@65.21.229.33:27656,eae6728de0c1ed97aa93c01197da6371877bc197@23.88.5.169:19656,b8613a7717b0ebaf2100c360cf13c92c4de33100@195.201.63.87:41666,05483a7ec0160b17de1ad8e7793c7502e70e5525@146.59.85.223:17256,9c48280114e00f3105697ec8fd7254d63c91e41d@65.21.95.15:33656,92245ff5c7a4b293d2f0c7f9afca0ddad2e0fb52@65.108.244.178:26656,8f023504e27873141164b6fbf1c4b788ff8d533b@159.69.200.24:26656,5fb9952f3eaeb5be3aab37425831c2a4830a019d@65.21.133.125:29656,b5bf2242c981371224e5e9e89d6c265d554c8989@65.21.202.154:21656,85ad2e46ee69dc8e483f7f459e4954a8726f6d67@178.211.139.28:21656,d12f9b52ca0e11cdeca5c46e802249ade4c39c45@185.248.24.40:26656,d3a8fdbe6776fc71998fa893abcd634461b52b19@65.109.92.241:40106,275d2614d24c8ac015a7712702fcb99cef67ef67@65.108.124.219:29656,fc2944b77420f98a81725a73006668044412cd21@65.109.26.95:46656,89ded0a3987d22e46b756fead439e2a4d25f23cb@185.144.99.30:26656,34e3178b6e0f25451fd690c15fc199d5a9bdfb9b@15.204.197.11:26656,b1dcbb37514fbe215be54079e71aa39dac7fd0ae@64.5.123.203:26656,e9a613c7abab7d0f9c3827de6c8c080fb9521ab3@169.155.46.52:26656"
+sed -i -e "s|^persistent_peers *=.*|persistent_peers = \"$peers\"|" $HOME/.rebusd/config/config.toml
+```
+
+
 
