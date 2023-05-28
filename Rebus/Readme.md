@@ -1,4 +1,4 @@
-# Chain ID: reb_1111-1 | Latest Version Tag:  v4.1.0
+# Chain ID: reb_1111-1 | Latest Version Tag:  v0.3.0
 # [Website](https://www.rebuschain.com/) | [Discord](https://discord.gg/rebuschain) | [Twitter](https://twitter.com/RebusChain)
 
 # Chain explorer
