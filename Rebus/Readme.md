@@ -3,7 +3,7 @@
 
 # Chain explorer
 https://rebus.explorers.guru/
-# [RESTAKE]- [Stake Here](https://rebus.tcnetwork.io/validator/rebusvaloper10qqt5qhf447ukj2lve7cfcmxqst04hnqyfn8ug)
+# TC NETWORK- [Stake Here](https://rebus.tcnetwork.io/validator/rebusvaloper10qqt5qhf447ukj2lve7cfcmxqst04hnqyfn8ug)
 
 ### Validator: RebusNodeMax rebusvaloper10qqt5qhf447ukj2lve7cfcmxqst04hnqyfn8ug
 
