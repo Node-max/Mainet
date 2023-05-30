@@ -6,7 +6,7 @@ https://testnet.archway.explorers.guru/
 
 # Stake with DesmosNodeMax - [Stake Here](https://restake.app/desmos/desmosvaloper1lqjzccauwa0wn93nu04q337h6q44yxpmfc6kl7)
 
-# Validator: CrescentNodeMax crevaloper1x77p6m3w6xddqy253jtup32n97fr8mdwrlgzez
+## Validator: DesmosNodeMax desmosvaloper1lqjzccauwa0wn93nu04q337h6q44yxpmfc6kl7
 
 # [Stake Here](https://ping.pub/desmos/staking/desmosvaloper1lqjzccauwa0wn93nu04q337h6q44yxpmfc6kl7)
 
