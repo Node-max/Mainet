@@ -1,5 +1,5 @@
 # Chain ID: desmos-mainnet | Latest Version Tag:  v4.8.0 
-# [Website](https://www.desmos.network/ | [Discord](https://discord.com/invite/ckFcU5vxxc) | [Twitter](https://twitter.com/DesmosNetwork)
+# [Website](https://www.desmos.network/) | [Discord](https://discord.com/invite/ckFcU5vxxc) | [Twitter](https://twitter.com/DesmosNetwork)
 
 # Chain explorer
 https://testnet.archway.explorers.guru/
