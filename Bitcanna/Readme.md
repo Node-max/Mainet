@@ -19,10 +19,13 @@ grpc: rpc.bitcanna.max-node.xyz:9390
 ```python
 cd28921e4ee6253a17da2ffd52d37406b520d7a6@rpc.bitcanna.max-node.xyz:29656
 ```
-
+### genesis
+```python
+curl -Ls https://snapshots.max-node.xyz/bitcanna/bitcanna/genesis.json > $HOME/.bcna/config/genesis.json
+```
 ### addrbook
 ```python
-curl -Ls https://snapshots.max-node.xyz/bitcanna/bitcanna/addrbook.json > $HOME/.crescent/config/addrbook.json
+curl -Ls https://snapshots.max-node.xyz/bitcanna/bitcanna/addrbook.json > $HOME/.bcna/config/addrbook.json
 ```
 
 ### live-peers
